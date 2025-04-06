@@ -1,0 +1,9 @@
+flash_attn==2.7.4.post1
+gradio==5.23.3
+huggingface_hub==0.30.1
+mlx==0.24.2
+mlx_lm==0.22.3
+numpy==2.2.4
+packaging==24.2
+torch==2.6.0
+transformers==4.50.3
